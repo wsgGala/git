@@ -7,5 +7,6 @@ public class GitTest {
 	public void test(){
 		System.out.println("update 01");
 		System.out.println("update 02");
+		system.out.println("update 03");
 	}
 }
