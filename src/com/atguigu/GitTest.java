@@ -12,5 +12,6 @@ public class GitTest {
 		System.out.println("update 05");
 		System.out.println("hello world  06");
 		System.out.println("upfste 06");
+		System.out.println("update 07");
 	}
 }
